@@ -11,7 +11,7 @@ Este proyecto es una app básica en Flask que corre dentro de un contenedor Dock
 1. Clonar el repo:
 
 ```bash
-git clone https://github.com/TU_USUARIO/NOMBRE_REPO.git](https://github.com/germanalexis999/template-docker-flask.git
+git clone https://github.com/https://github.com/germanalexis999/template-docker-flask.git
 
 2. docker build -t flask-docker-app .
 
